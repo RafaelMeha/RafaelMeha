@@ -32,6 +32,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMeha&hide=ruby,shell&layout=compact)](https://github.com/RafaelMeha?tab=repositories)
+
 ##
 
 #### Como entrar em contato comigo:
