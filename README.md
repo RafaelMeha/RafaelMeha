@@ -10,7 +10,7 @@
 
 ##
 
-![Rafael Meha GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMeha&show_icons=true&theme=dark&count_private=true)
+![Rafael Meha GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMeha&show_icons=true&theme=dark&count_private=false)
 
 ##
 
