@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello, Devs!! 👋
-### O meu nome é Rafael, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### My name is Rafael, welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🏠  Sou de Setúbal, Portugal
-- 💻 Apaixonado por Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software no IPS.
-- 🏦 Atualmente trabalho como Estagiário na CGI.
+- 🏠  I'm from Setúbal, Portugal
+- 💻 Passionate about Technology
+- 🧠 Software Development Student at IPS.
+- 🏦 I currently work as an Intern at CGI.
 
 ##
 
@@ -14,7 +14,7 @@
 
 ##
 
-#### As minhas redes sociais:
+#### My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmeha/)
 [![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://youtube.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -22,7 +22,7 @@
 
 ##
 
-#### Ferramentas que uso:
+#### Techonolgies I use::
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -36,6 +36,6 @@
 
 ##
 
-#### Como entrar em contato comigo:
+#### How to talk with me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafael-meha-01648a22b/)
 [<img alt="" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:rafaelmeha5@gmail.com)
