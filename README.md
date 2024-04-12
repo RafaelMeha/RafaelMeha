@@ -10,7 +10,7 @@
 
 ##
 
-![Rafael Meha GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMeha&show_icons=true&theme=dark&count_private=false)
+![Rafael Meha GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMeha&show_icons=true&theme=tokyonight&count_private=false)
 
 ##
 
@@ -32,7 +32,11 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMeha&hide=ruby,shell&layout=compact&theme=dark)](https://github.com/RafaelMeha?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMeha&hide=ruby,shell&layout=compact&theme=tokyonight)](https://github.com/RafaelMeha?tab=repositories)
+
+##
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ##
 
