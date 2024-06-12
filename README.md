@@ -13,7 +13,7 @@
 
 - 🏠  I'm from Setúbal, Portugal
 - 💻 Passionate about Technology
-- 🧠 Software Development Student at IPS.
+- 🧠 Software Developer Student at IPS.
 - 🏦 I currently work as an Intern at CGI.
 
 ##
