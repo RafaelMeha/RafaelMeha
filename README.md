@@ -3,7 +3,7 @@
 ## Hello, Devs!! 👋
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=My name is Rafael; Welcome to my GitHub profile!"></a> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-<img alt="" width="100%" src="https://github.com/RafaelMeha/RafaelMeha/soulja-boy-pepe.gif">
+<img alt="" width="100%" src="[https://github.com/RafaelMeha/RafaelMeha/soulja-boy-pepe.gif](https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif)">
 
 ##
 
