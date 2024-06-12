@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&&size=30&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!;Welcome to my GitHub profile!"><img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif" style="algin-items: right">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&&size=30&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!;Welcome to my GitHub profile!"><img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif">
 
 ##
 
