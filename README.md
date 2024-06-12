@@ -1,5 +1,4 @@
-<h1 style="font-size: 3em;"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!; Welcome to my GitHub profile!"></h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<h1 style="font-size: 3em;"><img style="width: 20px; height: 20px" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!; Welcome to my GitHub profile!"></h1>
 
 <img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif">
 
