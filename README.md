@@ -14,6 +14,10 @@
 
 ##
 
+![](https://github-readme-stats.vercel.app/api?username=RafaelMeha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+##
+
 #### My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmeha/)
 [![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://youtube.com/)
