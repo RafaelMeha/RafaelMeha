@@ -18,6 +18,10 @@
 
 ##
 
+![](https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647)
+
+##
+
 #### My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmeha/)
 [![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://youtube.com/)
