@@ -3,6 +3,10 @@
 ## Hello, Devs!! 👋
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=My name is Rafael; Welcome to my GitHub profile!"></a> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
+<img alt="" width="100%" src="https://github.com/RafaelMeha/RafaelMeha/soulja-boy-pepe.gif">
+
+##
+
 - 🏠  I'm from Setúbal, Portugal
 - 💻 Passionate about Technology
 - 🧠 Software Development Student at IPS.
@@ -16,9 +20,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMeha&theme=tokyonight&hide_border=false)
 
-##
-
-<div class="tenor-gif-embed" data-postid="13307647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">Soulja Boy Pepe Sticker</a>from <a href="https://tenor.com/search/soulja+boy-stickers">Soulja Boy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ##
 
 #### My socials:
