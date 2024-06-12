@@ -1,4 +1,4 @@
-<h1 style="font-size: 3em;"><img style="width: 20px; height: 20px" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!; Welcome to my GitHub profile!"></h1>
+<h1 style="font-size: 3em;"><img style="width: 120px; height: 120px" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!; Welcome to my GitHub profile!"></h1>
 
 <img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif">
 
