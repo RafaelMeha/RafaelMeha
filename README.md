@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=Hello, Devs!! 👋;My name is Rafael!; Welcome to my GitHub profile!"></a> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+# <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&lines=Hello, Devs!! 👋;My name is Rafael!; Welcome to my GitHub profile!"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 <img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif">
 
