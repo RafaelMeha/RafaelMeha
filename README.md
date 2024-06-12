@@ -1,4 +1,13 @@
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&&size=30&color=%237E3ACE&lines=Hello, Devs! 👋;My name is Rafael!;Welcome to my GitHub profile!"><img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+      <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&&size=30&color=%237E3ACE&lines=Hello,+Devs!+%F0%9F%91%8B;My+name+is+Rafael!;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+    </div>
+    <div>
+      <img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif" alt="Soulja Boy Pepe Gif">
+    </div>
+  </div>
+</div>
 
 ##
 
