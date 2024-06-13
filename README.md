@@ -7,8 +7,6 @@
   </div>
 </div>
 
-
-
 ##
 
 - 🏠  I'm from Setúbal, Portugal
@@ -18,7 +16,11 @@
 
 ##
 
-![Rafael Meha GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMeha&show_icons=true&theme=tokyonight&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMeha&theme=tokyonight&hide_border=false)
+![Rafael Meha GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMeha&show_icons=true&theme=tokyonight&count_private=false)
+
+##
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMeha&theme=tokyonight&hide_border=false)
 
 ##
 
