@@ -1,9 +1,6 @@
 <div>
   <div style="margin-right: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&&size=30&color=%237E3ACE&lines=Hello,+Devs!+%F0%9F%91%8B;My+name+is+Rafael!" alt="Typing SVG">
-  </div>
-  <div>
-    <img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif" alt="Soulja Boy Pepe Gif">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&&size=30&color=%237E3ACE&lines=Hello,+Devs!+%F0%9F%91%8B;My+name+is+Rafael!" alt="Typing SVG"> <img src="https://github.com/RafaelMeha/RafaelMeha/blob/main/soulja-boy-pepe.gif" alt="Soulja Boy Pepe Gif">
   </div>
 </div>
 
