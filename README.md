@@ -54,4 +54,3 @@
 
 #### How to talk with me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafael-meha-01648a22b/)
-[<img alt="" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:rafaelmeha5@gmail.com)
